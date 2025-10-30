@@ -1,6 +1,6 @@
 # NeuroStartUp
 
-![](./logo.png)
+![](file:///Users/natalaurazovskaa/Desktop/GIT/logo.png)
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием 
  новейших технологий искусственного интеллекта.
